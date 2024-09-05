@@ -1,8 +1,8 @@
 <h1 align="center">Namaste :cheese:</h1>
 
  <p align="center">
-    :wave:I'm Hiren, an aspiring software engineer from Surat. A passionate full-stack developer and competitive programmer, I derive great satisfaction from constructing responsive, user-friendly, and high-quality websites. <br><br>
-  My skill set spans across a range of languages, including JavaScript, Java, C++, and Python, enabling me to approach challenges from diverse angles and contribute effectively.
+    :wave:Hi there! I'm Hiren Vaghela, a Data Scientist with a passion for applying deep learning and machine learning techniques to solve real-world problems. I hold a BTech in Electronics and Communications Engineering from NIT Surat. I'm also passionate about system design and software development, constantly seeking to optimize performance and create efficient, scalable solutions. <br><br>
+  My skill set spans across a range of languages, including Python, Pytorch, Tensorflow, C++ enabling me to approach challenges from diverse angles and contribute effectively.
  </p>
  
  
