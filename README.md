@@ -10,7 +10,8 @@
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
- <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' height='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='30'/>
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/>
+ <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' width='30'/>
 </p>
 
 <h3 align="center">Frameworks and Tools</h3>
@@ -19,7 +20,7 @@
 </p>
  
  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=astonizer&bg_color=70,0f0c29,302b63,24243e&title_color=fff&text_color=fff" alt="Astel's Github Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiren-2911&bg_color=70,0f0c29,302b63,24243e&title_color=fff&text_color=fff" alt="Hiren's Github Stats">
  </p>
  
  
@@ -37,5 +38,5 @@
 <br>
  <p align="center"> 
   Visitors<br>
-  <img src="https://profile-counter.glitch.me/astonizer/count.svg" />
+  <img src="https://profile-counter.glitch.me/hiren-2911/count.svg" />
 </p>
