@@ -7,17 +7,14 @@
  
  
  
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Programming Languages, Frameworks and Tools</h3>
 
 <p align="center">
  <img src = 'https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/>
- <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' width='30'/>
+ <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/><img src = 'https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg' width='30'/>
 </p>
 
-<h3 align="center">Frameworks and Tools</h3>
-<p align="center">         
- <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg' width='50'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg' width='50'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' width='40'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' width='40'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' width='40'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' width='40'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='40'/>
-</p>
+
  
  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiren-2911&bg_color=70,0f0c29,302b63,24243e&title_color=fff&text_color=fff" alt="Hiren's Github Stats">
