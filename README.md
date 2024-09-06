@@ -8,10 +8,16 @@
  
  
 <h3 align="center">Programming Languages, Frameworks and Tools</h3>
-
 <p align="center">
- <img src = 'https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg' width='30'/><img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/>
- <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/><img src = 'https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg' width='30'/>
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg' width='30'/>
+ <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/>
+ <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/>
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg' width='30'/> 
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg' width='30'/> 
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg' width='30'/> 
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width='30'/> 
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width='30'/> 
+ <img src = 'https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg' width='30'/> 
 </p>
 
 
